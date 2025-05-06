@@ -1,1 +1,1 @@
-# basic-algorithm-
+# basic-algorithm in AI with Python
